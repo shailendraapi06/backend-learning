@@ -1,0 +1,24 @@
+{
+  "name": "backend--project",
+  "version": "1.0.0",
+  "description": "First Backend Project",
+  "keywords": [
+    "Backend",
+    "javascript"
+  ],
+  "homepage": "https://github.com/shailendraapi06/backend-learning#readme",
+  "bugs": {
+    "url": "https://github.com/shailendraapi06/backend-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailendraapi06/backend-learning.git"
+  },
+  "license": "ISC",
+  "author": "Shailendra Pratap Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
